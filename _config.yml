@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Thüringer Gipfel.
-subtitle: Die schönsten Wanderungen in Thüringen
-description: thueringer-gipfel.de. Hier finden Sie die schönsten Wandertouren Thüringens. Mit ausführlicher Beschreibung und Bildern. Die Routen können Sie sich herunterladen (gpx, kml Format).
+title: Thüringer Gipfel
+subtitle: Die schönsten Wanderungen und Radtouren in Thüringen
+description: thueringer-gipfel.de. Hier finden Sie die schönsten Wander- und Radtouren Thüringens. Mit ausführlicher Beschreibung und Bildern. Die Routen können Sie sich herunterladen (gpx, kml Format).
 author: Heiko Hüter
 language: de
 timezone: Europe/Berlin
@@ -69,3 +69,12 @@ theme: bootstrap-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+postmap:
+  xmlpath: 'locations.xml'
+  mappagestub: 'karte'
+  mappagetitle: 'Tourenübersicht'
+
+leaflet:
+  baseLayer: 'https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZW5kZXI3NCIsImEiOiJjaW96emJjZTEwMDFmOTJsd2UybG1jN2ltIn0.CrDH-X2tBy3p3dp2eD9f7Q'
+  attribution: '©Mapbox ©OpenStreetMap'

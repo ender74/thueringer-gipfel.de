@@ -19,7 +19,7 @@ widgets:
 - recent_posts
 about_widget_content: >
   <p>Thueringer-gipfel.de zeigt Ihnen die schönsten Plätze und
-  Wanderrungen in Thüringen.</p>
+  Wanderungen in Thüringen.</p>
 
 # widget behavior
 archive_type: 'monthly'
@@ -27,7 +27,7 @@ show_count: true
 
 # Miscellaneous
 google_analytics:
-favicon:
+favicon: /favicon.png
 twitter_id:
 google_plus:
 fb_admins:
