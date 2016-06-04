@@ -4,6 +4,7 @@ menu:
   Start: index.html
   Archiv: archives/
   Karte: karte/
+  Impressum: impressum.html
 rss: /atom.xml
 
 # Content
