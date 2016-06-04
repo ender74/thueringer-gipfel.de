@@ -1,12 +1,13 @@
 # Header
 navbar_brand: false
 menu:
-  Home: index.html
-  Archives: archives/
+  Start: index.html
+  Archiv: archives/
+  Karte: karte/
 rss: /atom.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: Weiterlesen
 fancybox: true
 
 # Sidebar
@@ -28,7 +29,7 @@ show_count: true
 # Miscellaneous
 google_analytics:
 favicon: /favicon.png
-twitter_id:
+twitter_id: t_gipfel
 google_plus:
 fb_admins:
 fb_app_id:
