@@ -27,9 +27,9 @@ Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkar
 {% endcallout %}
 {% leaflet 51.307778 11.049167 13 100% 350px %}
 geoJSON:/routes/20160522_1431_Hiking.json
-marker:Erste Wanderhütte,51.3080145,11.052756,/icons/numbers/9/23-1.png,32,32,16,16
-marker:Zweite Wanderhütte,51.3084138,11.0645515,/icons/numbers/9/23-2.png,32,32,16,16
-marker:Mühlberg,51.3144668,11.0527793,/icons/numbers/9/23-3.png,32,32,16,16
+marker:Erste Wanderhütte,51.3080145,11.052756,/mapicons/numbers/9/23-1.png,32,32,16,16
+marker:Zweite Wanderhütte,51.3084138,11.0645515,/mapicons/numbers/9/23-2.png,32,32,16,16
+marker:Mühlberg,51.3144668,11.0527793,/mapicons/numbers/9/23-3.png,32,32,16,16
 {% endleaflet %}
 ![Kirche von Günserode](/img/günserode/kirche.jpg "Die Kirche von Günserode.")
 {% callout info %}
