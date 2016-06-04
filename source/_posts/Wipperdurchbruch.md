@@ -1,3 +1,4 @@
+---
 layout: post
 title: Orchideenwanderung am Wipperdurchbruch in Günserode
 date: 2016-05-22
@@ -5,6 +6,7 @@ location: [51.307778, 11.049167]
 tags:
 - Wandern
 - kurz
+- Lutherweg
 - Natur
 - Orchideen
 - Hainleite
@@ -23,19 +25,19 @@ photos:
 - /img/günserode/steilhang.jpg
 ---
 Der [Wipperdurchbruch](https://de.wikipedia.org/wiki/Wipperdurchbruch) liegt bei [Günserode](https://de.wikipedia.org/wiki/G%C3%BCnserode) im Kyffhäuserkreis südlich von Bad Frankenhausen. Hier hat sich die Wipper durch die Muschelkalkplatte der Hainleite gegraben. An den Prallhängen des Tals sind so in Jahrmillionen bis zu 150m hohe Steilwände entstanden. Die c.a. 6km lange Wanderung ist durch herrliche Ausblicke und seltene Pflanzenarten ein einmaliges Erlebnis.
-{% callout info %}
+{% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3895911089/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3895911089&linkCode=as2&tag=thueringergip-21">Radwander- und Wanderkarte Naturpark Kyffhäuser, Sondershausen und Umgebung: Ausflüge zwischen Nordhausen, der Goldenen Aue, Kelbra, Tilleda und Bad Frankenhausen. 1:35000 (Schöne Heimat)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3895911089" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 {% leaflet 51.307778 11.049167 13 100% 350px %}
-geoJSON:/routes/20160522_1431_Hiking.json
+geoJSON:/routes/günserode/20160522_1431_Hiking.json
 marker:Erste Wanderhütte,51.3080145,11.052756,/mapicons/numbers/9/23-1.png,32,32,16,16
 marker:Zweite Wanderhütte,51.3084138,11.0645515,/mapicons/numbers/9/23-2.png,32,32,16,16
 marker:Mühlberg,51.3144668,11.0527793,/mapicons/numbers/9/23-3.png,32,32,16,16
 marker:Abzweig,51.313167,11.042747,/mapicons/numbers/9/23-4.png,32,32,16,16
 marker:Kohnstein,51.315305, 11.033975,/mapicons/numbers/9/23-5.png,32,32,16,16
 {% endleaflet %}
-Download der Strecke als [gpx](/routes/20160522_1431_Hiking.gpx) oder [kml](/routes/20160522_1431_Hiking.kml) Datei.
+Download der Strecke als [gpx](/routes/günserode/20160522_1431_Hiking.gpx) oder [kml](/routes/günserode/20160522_1431_Hiking.kml) Datei.
 
 ![Kirche von Günserode](/img/günserode/kirche.jpg "Die Kirche von Günserode.")
 {% callout info %}
@@ -63,7 +65,9 @@ Wenig später führt ein nach links abzweigender Weg wieder direkt zurück zum S
 Wir folgen aber dem Weg weiter geradeaus (grüne Wandermarkierung). Der Weg verläuft in halboffenem Gelände, mit ein paar Bäumen und Büschen. Auf der linken Seite passieren wir einen Pavillion. Wir folgen dem Weg bis zum nächsten Abzweig (Punkt 4 in der Karte).
 {% callout info %}
 <u>Tipp:</u> Von dieser Stelle aus kann man noch einen kurzen Abstecher zum Kohnstein machen (auf der Karte mit 5 markiert), wenn man dem Weg nach Rechts folgt. Hier befand sich am Ende der Bronzezeit bzw. zur Beginn der Eisenzeit eine Wallanlage, welche noch bis ins Mittelalter hinein genutzt worden sein soll.
-Ein paar Informationen zu dieser Anlage sind im Buch <a rel="nofollow" href="http://www.amazon.de/gp/product/B018FXWLKK/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B018FXWLKK&linkCode=as2&tag=thueringergip-21">Archäologischer Wanderführer Thüringen. Kyffhäuserkreis</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=B018FXWLKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> enthalten.
+{% endcallout %}
+{% callout warning %}
+Ein paar Informationen zum Kohnstein sind im Buch <a rel="nofollow" href="http://www.amazon.de/gp/product/B018FXWLKK/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B018FXWLKK&linkCode=as2&tag=thueringergip-21">Archäologischer Wanderführer Thüringen. Kyffhäuserkreis</a> enthalten.<img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=B018FXWLKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 Unser Weg führt uns aber nun gerade aus weiter, abwärts ins Wippertal hinunter. Hier kann man im Frühsommer noch Exemplare des Braunroten Stendelwurzes und des Großen Händelwurz entdecken (deren Blütezeit beginnt allerdings erst im Juni).
 Kurz bevor man im Tal auf die Wipper trifft, ist auf der linken Seite noch mal eine überdachte Wanderhütte (den kleinen Hang hinauf). Unten im Tal stoßen wir auf eine Brücke, welche hier aber gesperrt ist. Wir biegen nach links ab und laufen auf der linken Seite des Ufers zurück bis zur Brücke vom Anfang unserer Wanderung. Während dessen haben wir einen schönen Blick auf den Steilhang über uns.
@@ -74,7 +78,7 @@ Geöffnet ist im April-Oktober von 10Uhr bis 16Uhr. Die Führung dauert etwa ein
 {% endcallout %}
 ![Vom homo erectus als Werkzeug genutzte Feuersteine](/img/günserode/steinrinne.jpg "Vom homo erectus als Werkzeug genutzte Feuersteine.")
 
-{% callout info %}
+{% callout warning %}
 Diese und weitere Wanderungen sind im Buch "Orchideen-Wanderungen in Thüringen" von Wolfgang Eccarius und Helga Dietrich beschrieben. Dieses können Sie bei Amazon erwerben:
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3937107207/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3937107207&linkCode=as2&tag=thueringergip-21">Orchideen-Wanderungen in Thüringen: Weg- und Artenbeschreibungen sowie Wanderkarten</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3937107207" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
