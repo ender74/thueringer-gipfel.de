@@ -48,6 +48,8 @@ Eine passende Tourenkarte können Sie bei amazon.de bestellen:
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3866360800/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3866360800&linkCode=as2&tag=thueringergip-21">Fahrradkarte Erfurt, Mittelthüringen: Mit dem kompletten Gera-Radwanderweg. Mit Tourentipps. Mit UTM-Gitter für GPS. Offizielle Karte des ... Wasser- und reißfest. (Fahrradkarten)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3866360800" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 {% leaflet 51.307778 11.049167 13 100% 350px %}
+baseLayer: http://c.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png
+attribution: ©OpenStreetMap
 geoJSON:/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.json
 {% endleaflet %}
 Download der Strecke als [gpx](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.gpx) oder [kml](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.kml) Datei.
@@ -72,7 +74,7 @@ Nach Überqueren des Wehr fahren wir kurz nach links um dann aber gleich wieder 
 {% callout info %}
 <u>Hinweis:</u> Derzeit ist der Radweg zwischen Molsdorf und Ichtershausen wegen einer Großbaustelle gesperrt. Die ausgeschilderte Umleitung verläuft entlang der Straße.
 {% endcallout %}
-In Ichtershausen angekommen sehen wir schon von weitem den markanten, spitzen Turm des ehemaligen Nadelwerkes als nächstes Zwischenziel.
+In [Ichtershausen](https://de.wikipedia.org/wiki/Ichtershausen) angekommen sehen wir schon von weitem den markanten, spitzen Turm des ehemaligen Nadelwerkes als nächstes Zwischenziel.
 ![Das ehemalige Nadelwerk in Ichtershausen](/img/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/IMG_5122.JPG "Das ehemalige Nadelwerk in Ichtershausen")
 Der Radweg führt kurz nach links und danach hinter dem Nadelwerk entlang (Ausschilderung Schmücke / Rudisleben). Der nächste Orientierungspunkt ist die [Kirche von Ichtershausen](https://de.wikipedia.org/wiki/Klosterkirche_Ichtershausen). Hierbei handelt es sich um ein romanische Kirche aus dem 12.Jh. Vor der Kirche geht der Radweg nach links und kurz später über einen, ab da unbefestigten Weg entlang der Gera über Rudisleben nach Arnstadt. In Arnstadt folgen wir der Ausschilderung, zuerst Richtung Schmücke / Rennsteig danach Arnstadt Zentrum. Ins Zentrum von Arnstadt gelangen wir am Wollmarkt mit dem markanten Fischtor. Hieran fahren wir rechts vorbei in den Schlossgarten.
 
