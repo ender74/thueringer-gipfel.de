@@ -29,6 +29,7 @@ Der [Wipperdurchbruch](https://de.wikipedia.org/wiki/Wipperdurchbruch) liegt bei
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Karte bei amazon.de bestellen:
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3869792000/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3869792000&linkCode=as2&tag=thueringergip-21">Bad Frankenhausen (Kyffhäuser): 4632 (Topographische Karten 1:25000 (TK 25) Thüringen (amtlich))</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3869792000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
+<figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}
 geoJSON:/routes/günserode/20160522_1431_Hiking.json
 marker:Erste Wanderhütte,51.3080145,11.052756,/mapicons/numbers/9/23-1.png,32,32,16,16
@@ -37,8 +38,11 @@ marker:Mühlberg,51.3144668,11.0527793,/mapicons/numbers/9/23-3.png,32,32,16,16
 marker:Abzweig,51.313167,11.042747,/mapicons/numbers/9/23-4.png,32,32,16,16
 marker:Kohnstein,51.315305, 11.033975,/mapicons/numbers/9/23-5.png,32,32,16,16
 {% endleaflet %}
+<figcaption>
 Download der Strecke als [gpx](/routes/günserode/20160522_1431_Hiking.gpx) oder [kml](/routes/günserode/20160522_1431_Hiking.kml) Datei.
-
+</figcaption>
+</figure>
+<!-- more -->
 ![Kirche von Günserode](/img/günserode/kirche.jpg "Die Kirche von Günserode.")
 {% callout info %}
 <u>Anreise:</u> Der Startpunkt der Wanderung ist der Ort Günserode. Die Anreise erfolgt am besten mit dem Auto. Von Erfurt aus kommend fährt man über die B4 bis Straußfurt und von da an über die B86 (Richtung Weißensee) bis Kindelbrück. Kurz vor dem Ortsausgang biegt man in Kindelbrück Richtung Bilzingsleben ab. Hinter Bilzingsleben geht es rechts nach Günserode. Die Anreise von Norden erfolgt am besten von Sondershausen aus in Richtung Bad Frankenhausen. Hinter Sondershausen geht es dann rechts ab Richtung Seega.

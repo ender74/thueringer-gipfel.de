@@ -32,9 +32,9 @@ photos:
 Ausgangspunkt dieser 50km langen Fahrradtour ist die Landeshauptstadt von Thüringen, Erfurt. Von hier aus geht es entlang der Gera nach Gebesee und weiter der Unstrut folgend nach Bad Langensalza.
 {% callout warning %}
 Eine passende Tourenkarte können Sie bei amazon.de bestellen:
-<figure>
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3869791462/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3869791462&linkCode=as2&tag=thueringergip-21">Westliches Thüringer Becken / Mittleres Unstruttal (Topographische Karten Thüringen - Freizeit- und Wanderkarten 1:50000)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3869791462" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
+<figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}
 baseLayer: http://c.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png
 attribution: ©OpenStreetMap
@@ -44,6 +44,7 @@ geoJSON:/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erf
 Download der Strecke als [gpx](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.gpx) oder [kml](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.kml) Datei.
 </figcaption>
 </figure>
+<!-- more -->
 Unsere Tour startet am Radhaus am Erfurter Hauptbahnhof (Willy-Brandt-Platz). Hier bietet das Parkhaus am Bahnhof eine gute Möglichkeit, das Auto abzustellen. Hinter dem Bahnhof sind in begrenzter Zahl auch kostenfreie Parkplätze verfügbar. Im Radhaus hat der ADFC Erfurt einen kleinen Laden und es besteht auch die Möglichkeit, Räder abzustellen. Allerdings nicht für uns. Wir folgen der Ausschilderung Richtung Gebesee in die Bahnhofstraße hinein.
 ![Das Radhaus](/img/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/1_start.JPG
  "Das Radhaus")
