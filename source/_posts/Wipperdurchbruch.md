@@ -24,7 +24,7 @@ photos:
 - /img/günserode/käfer.jpg
 - /img/günserode/steilhang.jpg
 ---
-Der [Wipperdurchbruch](https://de.wikipedia.org/wiki/Wipperdurchbruch) liegt bei [Günserode](https://de.wikipedia.org/wiki/G%C3%BCnserode) im Kyffhäuserkreis südlich von Bad Frankenhausen. Hier hat sich die Wipper durch die Muschelkalkplatte der Hainleite gegraben. An den Prallhängen des Tals sind so in Jahrmillionen bis zu 150m hohe Steilwände entstanden. Die c.a. 6km lange Wanderung ist durch herrliche Ausblicke und seltene Pflanzenarten ein einmaliges Erlebnis.
+Der [Wipperdurchbruch](https://de.wikipedia.org/wiki/Wipperdurchbruch) liegt bei [Günserode](https://de.wikipedia.org/wiki/G%C3%BCnserode) im Kyffhäuserkreis in Thüringen, südlich von Bad Frankenhausen. Hier hat sich die Wipper durch die Muschelkalkplatte der Hainleite gegraben. An den Prallhängen des Tals sind so in Jahrmillionen bis zu 150m hohe Steilwände entstanden. Die c.a. 6km lange Wanderung ist durch herrliche Ausblicke und seltene Pflanzenarten ein einmaliges Erlebnis.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Karte bei amazon.de bestellen:
 <a rel="nofollow" href="http://www.amazon.de/gp/product/3869792000/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3869792000&linkCode=as2&tag=thueringergip-21">Bad Frankenhausen (Kyffhäuser): 4632 (Topographische Karten 1:25000 (TK 25) Thüringen (amtlich))</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3869792000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
