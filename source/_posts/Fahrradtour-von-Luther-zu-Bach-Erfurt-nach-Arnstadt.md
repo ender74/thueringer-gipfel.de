@@ -53,9 +53,7 @@ baseLayer: http://c.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png
 attribution: ©OpenStreetMap
 geoJSON:/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.json
 {% endleaflet %}
-<figcaption>
-Download der Strecke als [gpx](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.gpx) oder [kml](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.kml) Datei.
-</figcaption>
+<figcaption>Download der Strecke als [gpx](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.gpx) oder [kml](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.kml) Datei.</figcaption>
 </figure>
 <!-- more -->
 Die Fahrt beginnt auf dem Domplatz. Hier bietet das Parkhaus am Dom eine gute Möglichkeit, das Auto abzustellen. Vom Domplatz aus geht es erstmal auf der nördlichen Seite (auf der Seite des Parkhauses) kurz das Lauentor nach oben. An der nächsten Ampel biegen wir aber gleich links ab (Richtung Brühl / Theater) und folgen der Maximilian-Welsch-Straße und später der Bonemilchstraße bis zum Benaryplatz. Hier folgen wir der Ausschilderung für den Radweg Richtung Erfurt Zentrum / Hbf. Es geht kurz entlang einer Parkanlage über zwei Brücken. Hinter der zweiten Brücke folgen wir dem Radweg nach rechts Richtung Gotha / Arnstadt. Das folgende Teilstück geht entlang der Gera bzw. des Flutgrabens durch gepflegte Parkanlagen. Bei schönem Wetter werden diese von den Erfurtern gerne zur Erholung angenommen. Wir kommen zu einer größeren Brücke bzw. einem Wehr auf der linken Seite. Über dieses Wehr führt uns unser Weg. Vorerst fahren wir aber noch ein kurzes Stück geradeaus bis zur Dreibrunnenquelle.

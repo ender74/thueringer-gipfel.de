@@ -81,3 +81,6 @@ postmap:
 leaflet:
   baseLayer: 'https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZW5kZXI3NCIsImEiOiJjaW96emJjZTEwMDFmOTJsd2UybG1jN2ltIn0.CrDH-X2tBy3p3dp2eD9f7Q'
   attribution: '©Mapbox ©OpenStreetMap'
+
+nofollow:
+    enable: true  

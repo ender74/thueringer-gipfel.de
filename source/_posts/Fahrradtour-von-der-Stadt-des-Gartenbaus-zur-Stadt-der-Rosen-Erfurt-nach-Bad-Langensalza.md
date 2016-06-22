@@ -40,9 +40,7 @@ baseLayer: http://c.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png
 attribution: ©OpenStreetMap
 geoJSON:/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.json
 {% endleaflet %}
-<figcaption>
-Download der Strecke als [gpx](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.gpx) oder [kml](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.kml) Datei.
-</figcaption>
+<figcaption>Download der Strecke als [gpx](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.gpx) oder [kml](/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.kml) Datei.</figcaption>
 </figure>
 <!-- more -->
 Unsere Tour startet am Radhaus am Erfurter Hauptbahnhof (Willy-Brandt-Platz). Hier bietet das Parkhaus am Bahnhof eine gute Möglichkeit, das Auto abzustellen. Hinter dem Bahnhof sind in begrenzter Zahl auch kostenfreie Parkplätze verfügbar. Im Radhaus hat der ADFC Erfurt einen kleinen Laden und es besteht auch die Möglichkeit, Räder abzustellen. Allerdings nicht für uns. Wir folgen der Ausschilderung Richtung Gebesee in die Bahnhofstraße hinein.

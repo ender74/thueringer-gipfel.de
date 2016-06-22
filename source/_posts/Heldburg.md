@@ -33,9 +33,7 @@ Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkar
 {% leaflet 51.307778 11.049167 13 100% 350px %}
 geoJSON:/routes/heldburg/20160508_1114_Hiking.json
 {% endleaflet %}
-<figcaption>
-Download der Strecke als [gpx](/routes/heldburg/20160508_1114_Hiking.gpx) oder [kml](/routes/heldburg/20160508_1114_Hiking.kml) Datei.
-</figcaption>
+<figcaption>Download der Strecke als [gpx](/routes/heldburg/20160508_1114_Hiking.gpx) oder [kml](/routes/heldburg/20160508_1114_Hiking.kml) Datei.</figcaption>
 </figure>
 <!-- more -->
 ![Die Veste Heldburg](/img/heldburg/veste1.jpg "Die Veste Heldburg.")

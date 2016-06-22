@@ -38,9 +38,7 @@ marker:Mühlberg,51.3144668,11.0527793,/mapicons/numbers/9/23-3.png,32,32,16,16
 marker:Abzweig,51.313167,11.042747,/mapicons/numbers/9/23-4.png,32,32,16,16
 marker:Kohnstein,51.315305, 11.033975,/mapicons/numbers/9/23-5.png,32,32,16,16
 {% endleaflet %}
-<figcaption>
-Download der Strecke als [gpx](/routes/günserode/20160522_1431_Hiking.gpx) oder [kml](/routes/günserode/20160522_1431_Hiking.kml) Datei.
-</figcaption>
+<figcaption>Download der Strecke als [gpx](/routes/günserode/20160522_1431_Hiking.gpx) oder [kml](/routes/günserode/20160522_1431_Hiking.kml) Datei.</figcaption>
 </figure>
 <!-- more -->
 ![Kirche von Günserode](/img/günserode/kirche.jpg "Die Kirche von Günserode.")
