@@ -21,7 +21,7 @@ widgets:
 - archive
 - recent_posts
 about_widget_content: >
-  <p>Thueringer-gipfel.de zeigt Ihnen die schönsten Plätze und
+  <p>www.thueringer-gipfel.de zeigt Ihnen die schönsten Plätze und
   Wanderungen in Thüringen.</p>
 
 # widget behavior
@@ -29,7 +29,7 @@ archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-79776810-1
 favicon: /favicon.png
 twitter_id: t_gipfel
 google_plus:

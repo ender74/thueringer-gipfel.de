@@ -5,7 +5,7 @@
 # Site
 title: Thüringer Gipfel
 subtitle: Die schönsten Wanderungen und Radtouren in Thüringen
-description: thueringer-gipfel.de. Hier finden Sie die schönsten Wander- und Radtouren Thüringens. Mit ausführlicher Beschreibung und Bildern. Die Routen können Sie sich herunterladen (gpx, kml Format).
+description: thueringer-gipfel.de. Hier finden Sie die schönsten Wanderungen und Radtouren in Thüringen. Mit ausführlicher Beschreibung und Bildern. Die Routen können Sie herunterladen (gpx, kml Format).
 author: Heiko Hüter
 language: de-DE
 timezone: Europe/Berlin
@@ -83,4 +83,4 @@ leaflet:
   attribution: '©Mapbox ©OpenStreetMap'
 
 nofollow:
-    enable: true  
+    enable: true
