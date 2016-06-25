@@ -17,9 +17,8 @@ photos:
 - /img/creuzburg/werrabrücke_und_libriuskapelle.jpg
 - /img/creuzburg/hochsitz_mit_ausblick_und_feuerlilien.jpg
 - /img/creuzburg/liboriuskapelle_in_creuzburg.JPG
-- /img/creuzburg/IMG_5378.JPG
+- /img/creuzburg/salzmann_bank.jpg
 - /img/creuzburg/ortseingang_ebenau.jpg
-- /img/creuzburg/IMG_5238.JPG
 - /img/creuzburg/neue_radwegbrücke_bei_ebenau.jpg
 - /img/creuzburg/werrabrücke_bei_buchenau.jpg
 - /img/creuzburg/IMG_5333.JPG
@@ -28,7 +27,6 @@ photos:
 - /img/creuzburg/werratalblick_ebenauerköpfe.jpg
 - /img/creuzburg/blick_auf_die_werra_bei_buchenau.jpg
 - /img/creuzburg/feuerlilie_bei_creuzburg.jpg
-- /img/creuzburg/IMG_5306.JPG
 - /img/creuzburg/fresko_liborius_kapelle.jpg
 - /img/creuzburg/orchidee_dreizähniges_knabenkraut2.JPG.JPG
 - /img/creuzburg/orchidee_händelwurz.JPG
