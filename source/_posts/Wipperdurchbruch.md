@@ -5,7 +5,7 @@ date: 2016-05-22
 location: [51.307778, 11.049167]
 tags:
 - Wandern
-- kurz
+- Kurz
 - Lutherweg
 - Natur
 - Orchideen

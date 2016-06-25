@@ -5,10 +5,10 @@ date: 2016-06-18
 location: [51.0525, 10.246111]
 tags:
 - Wandern
-- mittel
-- Creuzburg
-- Eisenach
+- Mittel
+- Burg
 - Wartburgkreis
+- Natur
 - Orchideen
 photos:
 - /img/creuzburg/panorama_creuzburg.jpg

@@ -5,7 +5,7 @@ date: 2016-05-08
 location: [50.288611, 10.728611]
 tags:
 - Wandern
-- mittel
+- Mittel
 - Lutherweg
 - Burg
 - Franken

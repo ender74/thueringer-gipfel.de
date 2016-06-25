@@ -6,11 +6,11 @@ date: 2016-06-12
 location: [50.972747, 11.037104]
 tags:
 - Fahrrad
-- mittel
+- Mittel
 - Geraradweg
 - Unstrutradweg
 - Erfurt
-- Bad Langensalza
+- Unstrut-Hainich-Kreis
 photos:
 - /img/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/1_start.JPG
 - /img/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/3_anger.JPG
