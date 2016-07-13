@@ -4,7 +4,7 @@ date: 2016-07-10
 location: [51.366111, 11.103333]
 tags:
 - Wandern
-- Mittel
+- Schwer
 - Burg
 - Kyffhäuserkreis
 - Südharz
@@ -33,12 +33,17 @@ photos:
 - /img/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/tagpfauenauge.jpg
 - /img/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/unterburg_kyffhäuser.jpg
 ---
-"Der alte Barbarossa, Der Kaiser Friederich,
-Im unterird'schen Schlosse Hält er verzaubert sich.
-
-Er ist niemals gestorben, Er lebt darin noch jetzt;
-Er hat, im Schloß verborgen, Zum Schlaf sich hingesetzt."
-[Barbarossa](http://ingeb.org/Lieder/deralteb.html) Diese Wanderung führt vom Thüringischen Bad Frankenhausen zum Kyffhäuserdenkmal.
+<div class="container"><div class="col-sm-4">Der alte Barbarossa,
+  Der Kaiser Friederich,
+  Im unterird'schen Schlosse
+  Hält er verzaubert sich.</div><div class="col-sm-4">Er ist niemals gestorben,
+  Er lebt darin noch jetzt;
+  Er hat, im Schloß verborgen,
+  Zum Schlaf sich hingesetzt.</div>
+  <div class="col-sm-12">
+  [Anfang des Gedichtes "Barbarossa" von Friedrich Rückert](http://ingeb.org/Lieder/deralteb.html)
+</div></div>
+Diese ca. 20km lange Wanderung führt von Bad Frankenhausen in Thüringen zum Kyffhäuserdenkmal und zurück. Damit verbindet sie bedeutende Schauplätze der Geschichte Mitteldeutschlands. Die [Schlacht bei Frankenhausen](https://de.wikipedia.org/wiki/Schlacht_bei_Frankenhausen) war eine der bedeutendsten Schlachten im Verlauf des [Deutschen Bauernkriegs](https://de.wikipedia.org/wiki/Deutscher_Bauernkrieg). Auf dem Kyffhäuser befand sich eine Kaiserpfalz zur Zeit des [Heiligen Römischen Reichs deutscher Nation](https://de.wikipedia.org/wiki/Heiliges_R%C3%B6misches_Reich) und mit verschiedenen Sagen über [Friedrich I. (Barbarossa)](https://de.wikipedia.org/wiki/Friedrich_I._(HRR)) verknüpft.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Naturpark-Kyffhäuser-Sondershausen/dp/3895911089/ref=as_li_ss_tl?ie=UTF8&qid=1468260252&sr=8-1&keywords=kyffhäuser+wanderkarte&linkCode=ll1&tag=thueringergip-21&linkId=1c2cb212ef2f61431ecbeb09638e776d
@@ -47,12 +52,23 @@ Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkar
 <figure>
 {% leaflet 51.366111 11.103333 13 100% 350px %}
 geoJSON:/routes/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/20160710_1619_Hiking.json
-marker:Start und Zielpunkt,51.366111,11.103333,/mapicons/numbers/9/23-S.png,32,32,16,16
-marker:Blick zum Kyffhäuserdenkmal vom Gietenkopf,51.4,11.11667,/mapicons/numbers/9/23-1.png,32,32,16,16
-marker:Kyffhäuserdenkmal,51.413056,11.109722,/mapicons/numbers/9/23-2.png,32,32,16,16
+marker:Start und Zielpunkt,51.3663,11.11,/mapicons/numbers/9/23-S.png,32,32,16,16
+marker:Blick zum Kyffhäuserdenkmal vom Gietenkopf,51.4056,11.1175,/mapicons/numbers/9/23-1.png,32,32,16,16
+marker:Kyffhäuserdenkmal,51.4133,11.1087,/mapicons/numbers/9/23-2.png,32,32,16,16
 {% endleaflet %}
 <figcaption>Download der Strecke als [gpx](/routes/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/20160710_1619_Hiking.gpx) oder [kml](/routes/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/20160710_1619_Hiking.kml) Datei.</figcaption></figure>
 <!-- more -->
 {% callout info %}
-<u>Anreise:</u>
+<u>Anreise:</u> Die Anreise nach Bad Frankenhausen ist am einfachsten über die A71. An der Anschlussstelle Artern abfahren und dann über Artern und Esperstedt zum Panaromamuseum fahren.
 {% endcallout %}
+Startpunkt der Wanderung ist der Parkplatz zum Panoramamuseum oberhalb von Bad Frankenhausen. Von hier aus folgen wir dem Obstlehrpfad in Richtung Museum. Am ersten Wanderwegweiser folgen wir weiter dem Obstlehrpfad nach rechts. Es geht zwischen Feldern und Obstwiesen bergauf bis zum Tilledaer Tor. Ab hier verläuft der Weg durch den Wald, immer geradeaus. Kurz vor dem Gietenkopft verläuft unser Weg nach Rechts, Richtung Tilleda. Vorher empfiehlt es sich aber, noch ein paar hundert Meter zum Gipfel des Gietenkopfes weiter zu gehen. Hier bietet sich eine schöne Aussicht auf unser Ziel, den Kyffhäuser.
+![Blick auf den Kyffhäuser vom Gietenkopf.](/img/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/kyffhäuser_denkmal.jpg "Blick auf den Kyffhäuser vom Gietenkopf.")
+Wir folgen dem Weg Richtung Tilleda. Kurz vor dem Ort, verlassen wir das Waldstück. Eine Hinweistafel weist uns darauf hin, dass bei Tilleda 30 verschiedene Kirschsorten wachsen.
+{% callout info %}
+<u>Hinweis:</u> Am ersten Juliwochenende findet in Tilleda das Kirschkuchenfest statt. Hier gibt es eine Menge Informationen rund um die Kirsche und natürlich auch leckeren Kuchen.
+{% endcallout %}
+Direkt hinter dem Schild folgen wir dem Weg nach links, direkt auf das Kyffhäuserdenkmal zu.
+![Weg durch die Kirschplantagen bei Tilleda.](/img/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/kirschbäume_bei_tilleda.jpg "Weg durch die Kirschplantagen bei Tilleda.")
+Der Weg führt steil bergan bis zur Unterburg der ehemaligen Reichspfalz auf dem Kyffhäuser. Hier stehen mehrere Sitzbänke und Tische, welche zu einer Rast einladen.
+![Unterburg auf dem Kyffhäuser.](/img/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/unterburg_kyffhäuser.jpg "Unterburg auf dem Kyffhäuser.")
+Weiter geht es über eine Treppe hoch zum Kyffhäuserdenkmal. Dieses wurde in der Zeit nach der Gründung des Deutschen Reiches (Ende des 19. Jahrhunderts) zu Ehren von [Kaiser Wilhelm I](https://de.wikipedia.org/wiki/Wilhelm_I._(Deutsches_Reich)). errichtet.
