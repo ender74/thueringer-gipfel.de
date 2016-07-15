@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wanderung im Leutratal
 date: 2016-06-26
 location: [50.883764, 11.59325]

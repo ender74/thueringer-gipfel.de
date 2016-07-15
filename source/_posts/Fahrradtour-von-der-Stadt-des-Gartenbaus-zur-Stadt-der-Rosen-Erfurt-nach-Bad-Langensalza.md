@@ -1,4 +1,5 @@
 ---
+layout: post
 title: >-
   Fahrradtour von der Stadt des Gartenbaus zur Stadt der Rosen (Erfurt nach
   Bad Langensalza)
