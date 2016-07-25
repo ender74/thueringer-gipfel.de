@@ -6,6 +6,7 @@ tags:
 - Wanderung
 - Mittel
 - Ilmkreis
+- Burg
 photos:
 - /img/Wanderung-zu-den-drei-Gleichen/drei_gleichen.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/pano_holzhausen.jpg
