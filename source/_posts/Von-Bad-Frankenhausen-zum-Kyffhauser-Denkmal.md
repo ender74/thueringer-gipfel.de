@@ -4,7 +4,7 @@ title: Wanderung von Bad Frankenhausen zum Kyffhäuser Denkmal
 date: 2016-07-10
 location: [51.366111, 11.103333]
 tags:
-- Wandern
+- Wanderung
 - Schwer
 - Burg
 - Kyffhäuserkreis

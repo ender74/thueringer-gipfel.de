@@ -4,7 +4,7 @@ title: Wanderung um die Veste Heldburg - Die fränkische Leuchte
 date: 2016-05-08
 location: [50.288611, 10.728611]
 tags:
-- Wandern
+- Wanderung
 - Mittel
 - Lutherweg
 - Burg

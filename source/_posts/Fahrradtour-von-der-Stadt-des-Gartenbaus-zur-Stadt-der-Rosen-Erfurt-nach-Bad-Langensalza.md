@@ -6,7 +6,7 @@ title: >-
 date: 2016-06-12
 location: [50.972747, 11.037104]
 tags:
-- Fahrrad
+- Fahrradtour
 - Mittel
 - Geraradweg
 - Unstrutradweg

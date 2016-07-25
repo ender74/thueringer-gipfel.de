@@ -4,7 +4,7 @@ title: Orchideenwanderung am Wipperdurchbruch in Günserode
 date: 2016-05-22
 location: [51.307778, 11.049167]
 tags:
-- Wandern
+- Wanderung
 - Kurz
 - Lutherweg
 - Natur

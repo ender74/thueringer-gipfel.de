@@ -4,7 +4,7 @@ title: Fahrradtour von Luther zu Bach (Erfurt nach Arnstadt)
 date: 2016-06-05
 location: [50.978056, 11.029167]
 tags:
-- Fahrrad
+- Fahrradtour
 - Mittel
 - Geraradweg
 - Erfurt

@@ -3,7 +3,7 @@ layout: post
 title: Wanderung zu den drei Gleichen
 date: 2016-07-24
 tags:
-- Wandern
+- Wanderung
 - Mittel
 - Ilmkreis
 photos:

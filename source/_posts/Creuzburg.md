@@ -4,7 +4,7 @@ title: Orchideenwanderung bei Creuzburg
 date: 2016-06-18
 location: [51.0525, 10.246111]
 tags:
-- Wandern
+- Wanderung
 - Mittel
 - Burg
 - Wartburgkreis
