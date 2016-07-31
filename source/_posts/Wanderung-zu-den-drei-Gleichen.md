@@ -10,6 +10,7 @@ tags:
 - Fachwerk
 - Lutherweg
 photos:
+- /img/Wanderung-zu-den-drei-Gleichen/wachsenburg.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/drei_gleichen.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/pano_holzhausen.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/nordhang_wanderslebener_gleiche.jpg
@@ -38,7 +39,6 @@ photos:
 - /img/Wanderung-zu-den-drei-Gleichen/rad_der_marktmühle.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/blick_zur_wachsenburg.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/wachsenburg_von_den_angelteichen.jpg
-- /img/Wanderung-zu-den-drei-Gleichen/wachsenburg.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/mühlburg.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/innenhof_wachsenburg.jpg
 - /img/Wanderung-zu-den-drei-Gleichen/wachsenburg2.jpg
