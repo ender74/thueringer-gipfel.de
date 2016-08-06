@@ -2,6 +2,7 @@
 layout: post
 title: Wanderung zu den drei Gleichen
 date: 2016-07-24
+location: [50.8805,10.8351]
 tags:
 - Wanderung
 - Mittel
