@@ -2,6 +2,7 @@
 layout: post
 title: Ilmenau Wanderung - Große Kickelhahnrunde
 date: 2016-07-17
+location: [50.684167,10.922222]
 tags:
 - Wanderung
 - Schwer
