@@ -6,7 +6,8 @@ location: [50.8533907,11.2001912]
 tags:
 - Wanderung
 - Mittel
-- Ilmkreis
+- Kreis Weimaer Land
+- Mittleres Ilmtal
 - Burg
 photos:
 - /img/Wanderung-um-Kranichfeld-auf-Baumbachs-Spuren/1_hoch_auf_dem_gelben_wagen.jpg
