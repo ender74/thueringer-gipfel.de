@@ -2,6 +2,8 @@ User-Agent: *
 Disallow: /routes/
 Disallow: /images/
 Disallow: *.xml
+Disallow: *.gpx
+Disallow: *.kml
 Allow: /*sitemap.xml
 Allow: /search.xml
 Allow: /atom.xml
