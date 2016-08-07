@@ -74,7 +74,7 @@ Vom Windberg aus folgen wir dem Weg hinunter nach Barchfeld. Wir durchqueren den
 In Stedten folgt unsere Wanderung dem Weg "An der Waldbühne". Es geht bergauf. Wir folgen dem Wanderweg zum Oberschloss von Kranichfeld.
 ![Blick zum Oberschloss](/img/Wanderung-um-Kranichfeld-auf-Baumbachs-Spuren/16_oberschloss_blick.jpg "Blick zum Oberschloss")
 {% callout info %}
-Am Oberschloss lässt sich ein kleines Kunstwerk der Steinmetze entdecken, der Leckarsch. Zu dessen Entstehung gibt es die folgende Sage:
+Am Oberschloss lässt sich ein kleines Kunstwerk der Steinmetze entdecken, den Leckarsch. Zu dessen Entstehung gibt es die folgende Sage:
 Zwei Brüder, Wolfer und Ludger, lebten vor vielen Jahren gemeinsam auf dem Oberschloss. Eines Tages kam es zum Streit und Ludger musste die Burg verlassen. Vorher zeigte er aber auf die Stelle der heutigen Niederburg und sprach zu seinem Bruder: "Wenn ich wiederkomme, werde ich an dieser Stelle meine eigene Burg bauen". Sein Bruder lachte und erwiderte ihm: "Wenn du das schaffst, werde ich mich am Arsche lecken.". Nach etlichen Jahren kehrte sein Bruder zurück und baute seine Burg. Daraufhin musste Wolfer sein Ehrenwort halten, brach sich dabei aber aber das Genick und starb. Ludger hat seinen Bruder in seiner letzen Stellung am Südwesterker des Oberschlosses verewigen lassen.
 {% endcallout %}
 ![Der Kranichfelder Leckarsch (Quelle: Wikimedia / Peter Schmelzle)](/img/Wanderung-um-Kranichfeld-auf-Baumbachs-Spuren/Kranichfeld-Oberschloss-2014-08547.jpg "Der Kranichfelder Leckarsch")
