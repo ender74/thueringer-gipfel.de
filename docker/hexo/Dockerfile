@@ -3,7 +3,7 @@ FROM debian:jessie
 MAINTAINER Heiko Hüter <ender@ender74.de> 
 
 RUN apt-get update && \
-    apt-get -y install curl build-essential git ssh-client rsync && \
+    apt-get -y install curl build-essential git ssh-client rsync libpng-dev && \
     apt-get clean
     
 RUN curl -sL https://deb.nodesource.com/setup_6.x | bash - && \

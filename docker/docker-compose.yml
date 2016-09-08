@@ -9,7 +9,7 @@ services:
         container_name: thg-server
         image: ender74/hexo
         ports: 
-            - "80:4000"
+            - "4000:4000"
         command: "server"
         volumes: 
             - "../:/site"        
