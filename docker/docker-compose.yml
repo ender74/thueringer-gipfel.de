@@ -8,15 +8,15 @@ services:
     server:
         container_name: thg-server
         image: ender74/hexo
-        ports: 
-            - "4000:4000"
+        ports:
+          - "4000:4000"
         command: "server"
-        volumes: 
-            - "../:/site"        
+        volumes:
+            - "../:/site"
         depends_on:
             - hexo
     build:
-        container_name: thg-server
+        container_name: thg-build
         image: ender74/hexo
         command: "generate"
         volumes:
