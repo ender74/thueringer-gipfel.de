@@ -39,14 +39,19 @@ photos:
 - /img/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/30-durch-den-wald-nach-bad-sulza.jpg
 - /img/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/31-radweg-nach-bad-sulza.jpg
 ---
-Was verbinden Sie mit Weinanbau in Deutschland? Vermutlich denken Sie zuerst an den Rhein oder die Mosel, vielleicht auch die Cannstatter Wasen. Aber auch in Thüringen wird guter Wein gekeltert. Diese Wanderung führt in das Weinanbaugebiet Unstrut-Saale Region an der Grenze zu Sachsen-Anhalt.
+Was verbinden Sie mit Weinanbau in Deutschland? Vermutlich denken Sie zuerst an den Rhein oder die Mosel, vielleicht auch die Cannstatter Wasen. Aber auch in Thüringen wird guter Wein gekeltert. Diese Wanderung führt uns in das Weinanbaugebiet Unstrut-Saale Region an der Grenze zu Sachsen-Anhalt.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Mittleres-Saaletal-Naumburg/dp/3895910996/ref=as_li_ss_tl?ie=UTF8&qid=1475071743&sr=8-1&keywords=wanderkarte+bad+sulza&linkCode=ll1&tag=thueringergip-21&linkId=12729e8fcd11dd8e3216bd449547ee5c">Radwander- und Wanderkarte Mittleres Saaletal Naumburg und Umgebung: Ausflüge zwischen Bad Bibra, Freyburg (Unstrut) und Eckartsberga sowie zwischen Bad Sulza und Camburg. 1:35000 (Schöne Heimat) </a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=1475071743" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>
-{% leaflet 51.0954388 11.6329898 13 100% 350px %}
+{% leaflet 51.0968138 11.6303106 13 100% 350px %}
 geoJSON:/routes/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/2016-09-01_11962625_von-gradierwerk-louise-nach-weingut-zahn_export.json
+marker:Start und Zielpunkt,51.0968138,11.6303106,/mapicons/numbers/9/23-S.png,32,32,16,16
+marker:Thüringer Weingut Bad Sulza in Sonnendorf,51.1073482,11.6388387,/mapicons/numbers/9/23-1.png,32,32,16,16
+marker:Himmelreich,51.1179078,11.6973534,/mapicons/numbers/9/23-2.png,32,32,16,16
+marker:Burg Saaleck,51.109836,11.700929,/mapicons/numbers/9/23-3.png,32,32,16,16
+marker:Weinstube Weingut Zahn in Kaatschen,51.0967553,11.6825451,/mapicons/numbers/9/23-4.png,32,32,16,16
 {% endleaflet %}
 <figcaption>Download der Strecke als [gpx](/routes/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/2016-09-01_11962625_von-gradierwerk-louise-nach-weingut-zahn_export.gpx) oder [kml](/routes/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/2016-09-01_11962625_von-gradierwerk-louise-nach-weingut-zahn_export.kml) Datei.</figcaption></figure>
 <!-- more -->
@@ -76,6 +81,10 @@ Weiter geht unsere Wanderung entlang des Finnewanderwegs (Rote Wandermarkierung)
 Unser nächstes Ziel ist das Himmelreich. Dazu folgen wir dem ausgeschilderten Wanderweg entlang der Höhe. Auf der rechten Seite kommen wir nach ca. vier Kilometern an einem Waldgebiet vorbei. Dieses betreten wir aber nicht sondern laufen entlang der Waldkante weiter. Wir kommen zu einer asphaltierten Straße, welcher wir nach rechts folgen (Rote Wandermarkierung und Hinweisschild Himmelreich). Nach knapp zwei Kilometern verlassen wir die Straße nach rechts, in den Wald hinein (Hinweisschild: Himmelreich). Der Weg führt ein Stück bergab. Es geht vorbei an Kalkbänken, welche einen guten Eindruck vermitteln, wie der Untergrund aussieht. Bald darauf sind wir im Himmelreich angekommen. Diese Berggastätte bietet eine herrliche Aussicht auf die unten im Tal fließende Saale. Die Ortschaft direkt am Fluß heißt Saaleck. Hier ist unser nächstes Ziel zu sehen - die beiden Burgen [Saaleck](https://de.wikipedia.org/wiki/Burg_Saaleck) und links darüber die [Rudelsburg](https://de.wikipedia.org/wiki/Rudelsburg). Vor dem Abstieg bietet sich eine Einkehr im Himmelreich als Stärkung an.
 
 ![Ausblick vom Himmelreich](/img/Wanderung-ins-Himmelreich-Unterwegs-zur-Weinlese-in-Thuringen/17-ausblick-vom-himmelreich-auf-die-saale.jpg)
+
+{% callout info %}
+Das Himmelreich liegt inmitten des Geo-Naturpark Saale-Unstrut-Triasland. Es ist eine Station des [Geopfad Bad Kösens](http://www.naturpark-saale-unstrut.de/de/bad-koesen.html). Der Prallhang der Saale unterhalb davon, welchen wir auf unserer weiteren Wanderung nach Saaleck bei einem Blick zurück sehen können, ermöglicht einen Einblick in den Trias. In dieser Zeit vor ca. 240 Millionen Jahren war das gesamte Gebiet von einem Meer bedeckt. Über einen Zeitraum von ca. 50 Millionen Jahren haben sich so große Muschelkalkbänke gebildet, welche den heutigen Untergrund bilden.
+{% endcallout %}
 
 Jetzt geht es wieder zurück zum Parkplatz und von hier aus nach links, der Markierung Himmelreichweg folgend bergab. Im Tal der Saale angekommen führt unsere Wanderung durch Stendorf und dann über die Brücke nach Saaleck. Hier laufen wir in Richtung der Burg Saaleck den Berg hinauf.
 
