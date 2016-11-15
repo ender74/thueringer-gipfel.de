@@ -32,7 +32,7 @@ photos:
 - /img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/22_ueberquerung_der_salza.jpg
 - /img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/23_fachwerkhaeuser_in_bad_langensalza.jpg
 ---
-Diese ca. 30km lange Wanderung führt von Bad Langensalza aus zum Baumkronenpfad im Hainich.
+Diese ca. 30km lange Wanderung führt von Bad Langensalza aus zum Baumkronenpfad im Hainich. Mein Dank gilt der Sportwandergruppe der Erfurter Bergfreunde, welchen ich diesen Wandervorschlag zu verdanken habe. Ende Oktober zeigen sich die vielen Laubbäume im Hainich von ihrer bunten Seite. Wenn dann noch das Wetter mitspielt und die Sonne scheint, ist es die perfekte Wanderung für den goldenen Oktober.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Nationalpark-Hainich-Umgebung/dp/3895911194/ref=as_li_ss_tl?ie=UTF8&qid=1472928918&sr=8-1&keywords=wanderkarte+hainich&linkCode=ll1&tag=thueringergip-21&linkId=b66bbc5cdd67505a7e90502ee600e820
@@ -49,28 +49,28 @@ marker:Harthhaus,51.0598849,10.5796896,/mapicons/numbers/9/23-2.png,32,32,16,16
 {% callout info %}<u>Anreise:</u> Der Ort unserer Wanderung, Bad Langensalza liegt nördlich von Erfurt zwischen Mühlhausen und Sömmerda. Hier treffen die Bundesstraßen B84, B176 und B247 zusammen. Aber auch eine Anreise mit dem Zug ab Erfurt ist sehr gut möglich.
 {% endcallout %}
 
-Los geht die Wanderung am Bahnhof von Bad Langensalza. Von hier aus folgen wir der Travertinstraße zur Poststraße. Hier biegen wir nach links ab und folgen der nächsten Straße nach Rechts (Fabrikstraße). Kurz darauf geht es unter einer Eisenbahnbrücke hindurch nach links zum Stadtweg. Ab hier folgen wir immer dem Ufer der Salza (rote Wandermarkierung in Richtung Hainich). Es geht vorbei an schönen Fachwerkhäusern. Bei einem in Stein eingefaßten Brunnen wechseln wir über eine Brücke auf das andere Ufer der Salza. Als nächstes wandern wir unter einer imposanten Brücke hindurch (welche zur B247 gehört).
+Los geht die Wanderung am Bahnhof von Bad Langensalza. Von hier aus folgen wir der Travertinstraße zur Poststraße. Hier biegen wir nach links ab und folgen der nächsten Straße nach Rechts (Fabrikstraße). Kurz darauf geht es unter einer Eisenbahnbrücke hindurch nach links zum Stadtweg. Ab hier folgen wir immer dem Ufer der Salza (rote Wandermarkierung in Richtung Hainich). Es geht vorbei an schönen Fachwerkhäusern. Links kommen wir zu einem kleinen, in Stein eingefassten Brunnen. Hier wechseln wir über die Brücke nach rechts, auf das andere Ufer der Salza. Als nächstes wandern wir unter einer imposanten Brücke hindurch (welche zur B247 gehört).
 
 ![Brücke über die B247](/img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/1_bruecke_b247.jpg "Brücke über die B247")
 
-Weiter geht es auf dem Höhenzug in Richtung Zimmern (den Abzweig nach links ins Tal ignorieren wir; Dies ist unser Rückweg). Der Wanderung verläuft zwischen hohen Hecken links und rechts des Weges. Bevor es dann wieder auf das freie Feld geht, bildet die Hecke einen Durchgang.
+Weiter geht es auf dem Höhenzug in Richtung Zimmern (den Abzweig nach links ins Tal ignorieren wir; Dies ist unser Rückweg). Am Abzweig stehen viele Obstbäume, so dass wir uns mit Äpfeln und Birnen eindecken können. Die Pflaumenzeit ist leider schon vorbei. Die Wanderung geht weiter zwischen hohen Hecken links und rechts des Weges. Bevor es dann wieder auf das freie Feld geht, schließt sich die Hecke auch über uns. Wir gehen wie durch einen Tunnel.
 
 ![Auf dem Höhenweg nach Zimmern](/img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/2_auf_dem_hoehenzug_nach_zimmern.jpg "Auf dem Höhenweg nach Zimmern")
 
-Wir durchqueren Zimmern und folgen weiter der roten Wandermarkierung (Richtung Hainich). Der Weg verläuft hier zwischen Feldern mit weiten Blick in die Landschaft. Am Horizont sehen wir einen roten Turm aus dem Wald herausragen. Dies ist unser Ziel - der Baumkronenpfad.
+In Zimmern angekommen durchqueren wir den Ort und folgen weiter der roten Wandermarkierung (Richtung Hainich). Der Weg verläuft hier zwischen Feldern mit weiten Blick in die Landschaft. Am Horizont sehen wir rechts einen roten Turm aus dem Wald herausragen. Dies ist unser Ziel - der Baumkronenpfad.
 
 ![Wanderweg zum Hainich](/img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/4_zum_hainich.jpg "Wanderweg zum Hainich")
 
-Wir kommen zu einem großen Parkplatz, welcher zum Hainich Nationalparkzentrum "Thiemsburg" gehört. Diesen überqueren wir und folgen dem Gehweg zum Nationalparkzentrum. Im Forsthaus Thiemsburg können wir eine Rast einlegen. Im Nationalparkzentrum gibt es neben einem kleinen Souveniershop ein Museum zum Nationalpark. Sehr interessant ist auch der Besuch der neusten Attraktion, der Wurzelhöhle. Hier erhält man eine Vielzahl von Informationen darüber, wie es auf und unter dem Erdboden aussieht. Neben der Geologie werden auch interessante Fakten über Tiere und Pflanzen vermittelt.
+Wir kommen zum großen Parkplatz des Hainich Nationalparkzentrums "Thiemsburg". Diesen überqueren wir und folgen dem Gehweg zum Nationalparkzentrum. Im Forsthaus Thiemsburg können wir eine Rast einlegen. Im Nationalparkzentrum gibt es neben einem kleinen Souveniershop auch ein Museum zum Nationalpark. Sehr interessant ist auch der Besuch der neuesten Attraktion, der Wurzelhöhle. Hier erhält man eine Vielzahl von Informationen darüber, wie es auf und unter dem Erdboden aussieht. Neben der Geologie werden auch interessante Fakten über Tiere und Pflanzen vermittelt.
 
-{% callout info %}Der Nationalpark Hainich ist die größte, nutzungsfreie Waldfläche Deutschlands und Thüringens einziger Nationalpark. Er gehört zum UNESCO Weltnaturerbe. Neben den allgegenwärtigen Buchen wachsen hier auch Esche, Ahorn und Linde. Auch die seltene Elsbeere gibt es hier. Die ZDF Dokumentation "Im Wald der Wälder - Der Nationalpark Hainich" vermittelt einen guten Eindruck.
+{% callout info %}Der Nationalpark Hainich ist die größte, nutzungsfreie Waldfläche Deutschlands und Thüringens einziger Nationalpark. Er gehört zum UNESCO Weltnaturerbe. Neben den allgegenwärtigen Buchen wachsen hier auch Esche, Ahorn und Linde. Auch die seltene Elsbeere gibt es hier. Die ZDF Dokumentation "Im Wald der Wälder - Der Nationalpark Hainich" zeigt die Schönheit der Region.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Yl7FJwnIy-0" frameborder="0" allowfullscreen></iframe>
 {% endcallout %}
 
-Ehe wir vom Forsthaus Thiemsburg aus wieder zurückwandern, wollen wir natürlich auch noch den Hainich kennenlernen. Ein solch großer, zusammenhängender Buchenwald ist etwas besonderes. Er vermittelt einen kleinen Eindruck, wie Thüringen vor 2000 Jahren aussah.
+Ehe wir vom Forsthaus Thiemsburg aus wieder zurückwandern, wollen wir natürlich auch noch den Hainich erkunden. Ein solch großer, zusammenhängender Buchenwald ist etwas besonderes. Er vermittelt einen kleinen Eindruck, wie Thüringen vor 2000 Jahren aussah.
 Wir folgen dafür dem ausgeschilderten Rundweg "Thiemsburg". Es geht vorbei an einem kleinen Weiher und der impossanten Kolumbuseiche. Hinter der Kolumbuseiche können wir einen kleinen Abstecher nach rechts, zum Baumkronenpfad, machen.
 
-{% callout info %}Der Baumkronenpfad ermöglicht einen einzigartigen Blick auf den Wald. Verläuft er am Anfang noch auf der Höhe der Baumkronen, schaut man an dessen Ende von Oben auf den Wald. Vom höchsten Punkt, der Turmspitze, hat man eine weite Aussicht auf das umliegende Land. Gerade im Herbst ein unvergessliches Erlebnis.
+{% callout info %}Der Baumkronenpfad ermöglicht einen einzigartigen Blick auf den Wald. Verläuft er am Anfang noch auf der Höhe der Baumkronen, schaut man an dessen Ende von oben auf den Wald. Vom höchsten Punkt, der Turmspitze, hat man eine weite Aussicht auf das umliegende Land. Gerade im Herbst ein unvergessliches Erlebnis.
 {% endcallout %}
 
 Die Rundwanderung führt weiter geradeaus. An den folgenden Abzweigungen halten wir uns immer rechts und kommen so am Düsteroder Teich vorbei.
@@ -81,7 +81,7 @@ Immer dem Wanderweg folgend ist unser nächstes Ziel das [Weberstedter Kreuz](ht
 
 ![Weberstedter Kreuz](/img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/11_weberstedter_kreuz.jpg "Weberstedter Kreuz")
 
-Hier biegen wir nach rechts ab und wandern wieder zurück zur Thiemsburg. Von der Thiemsburg aus laufen wir wieder ein Stück zurück zu unserem Hinweg. 500 Meter hinter dem Parkplatz kommen wir zu einem Abzweig nach links, von wo aus wir zur Thiemsburg gelaufen sind. Diesem folgen wir diesmal aber nicht sondern wandern weiter geradeaus. Unsere nächstes Ziel ist das Waldgebiet "Große Harth" und die Gaststätte "Harthaus". Kurz vor dem Harthaus ist auf der rechten Seite des Weges ein kleines Gehege mit Dammwild.
+Hier biegen wir nach rechts ab und wandern wieder zurück zur Thiemsburg. Von der Thiemsburg aus laufen wir wieder ein Stück auf unserem Hinweg zurück. 500 Meter hinter dem Parkplatz kommen wir zu dem Abzweig nach links, von wo aus wir zur Thiemsburg gewandert sind. Diesem folgen wir diesmal aber nicht sondern gehen weiter geradeaus. Unsere nächstes Ziel ist das Waldgebiet "Große Harth" und die Gaststätte "Harthaus". Kurz vor dem Harthaus kommen wir auf der rechten Seite des Weges an einem kleinen Gehege mit Dammwild vorbei.
 
 ![Wildgehege am Harthaus](/img/Wanderung-von-Bad-Langensalza-zum-Baumkronenpfad/14_dammwild_am_harthhaus.jpg "Wildgehege am Harthaus")
 
