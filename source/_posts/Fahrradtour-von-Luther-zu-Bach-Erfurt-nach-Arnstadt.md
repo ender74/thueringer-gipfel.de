@@ -8,6 +8,7 @@ tags:
 - Mittel
 - Geraradweg
 - Erfurt
+- Arnstadt
 - Ilmkreis
 - Drei Gleichen
 photos:               
