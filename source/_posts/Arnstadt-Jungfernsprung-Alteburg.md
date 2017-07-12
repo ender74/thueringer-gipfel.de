@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wanderung in Arnstadt über Jungfernsprung und Jonastal zur Alten Burg
+title: Wanderung bei Arnstadt über Jungfernsprung und Jonastal zur Alteburg
 date: 2017-02-19
 location: [50.84201807175617, 10.948064609201207]
 tags:
@@ -31,7 +31,7 @@ photos:
 - /img/Arnstadt-Jungfernsprung-Alteburg/20_Willibald_Alexis.JPG
 - /img/Arnstadt-Jungfernsprung-Alteburg/21_Bahnhof.JPG
 ---
-Diese gut 9 Kilometer lange Wanderung führt vom Bahnhof Arnstadt in die Flure südlich der Stadt. Zuerst kreuzen wir das sagenumwobene Jonastal mit dem Jungfernsprung. Danach wandern wir hinauf zum Königsstuhl und Maempels Höhe. Zurück geht es über schöne Aussichtspunkte wie dem Kreuzchen und dem Schneckchen zur Alten Burg. Den Abschluss bildet ein kleiner Spaziergang durch Arnstadt.
+Diese gut 9 Kilometer lange Wanderung führt vom Bahnhof Arnstadt in die Flure südlich der Stadt. Zuerst kreuzen wir das sagenumwobene Jonastal mit dem Jungfernsprung. Danach wandern wir hinauf zum Königsstuhl und Maempels Höhe. Zurück geht es über schöne Aussichtspunkte wie dem Kreuzchen und dem Schneckchen zur Alteburg. Den Abschluss bildet ein kleiner Spaziergang durch Arnstadt.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander-Wanderkarte-Arnstadt-Stadtilm-Umgebung/dp/3895911100/ref=as_li_ss_tl?&linkCode=ll1&tag=thueringergip-21&linkId=0f85cc89aefc27e1d4f1024580293299">Radwander- und Wanderkarte Arnstadt, Stadtilm und Umgebung: Ausflüge zwischen Plaue, Remda-Teichel und Kranichfeld sowie Ilmenau, Königsee und Bad Blankenburg. 1:35000 (Schöne Heimat)</a>
