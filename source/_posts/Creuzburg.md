@@ -39,7 +39,7 @@ photos:
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander-Wanderkarte-Eisenach-Ruhla-Umgebung/dp/3895911127/ref=as_li_ss_tl?ie=UTF8&ref_=as_sl_pc_as_ss_li_til&linkCode=ll1&tag=thueringergip-21&linkId=3f36e5c4789a75b6495a937047e092f4
-">Radwander- und Wanderkarte Eisenach, Ruhla und Umgebung: Ausflüge zwischen Marksuhl, Herleshausen, Creuzburg, Nationalpark Hainich, den Hörselbergen, ... und Bad Salzungen. 1:35000 (Schöne Heimat)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3895911127" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+">Radwander- und Wanderkarte Eisenach, Ruhla und Umgebung: Ausflüge zwischen Marksuhl, Herleshausen, Creuzburg, Nationalpark Hainich, den Hörselbergen, ... und Bad Salzungen. 1:35000 (Schöne Heimat)</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3895911127" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>
 {% leaflet 51.0525 10.246111 13 100% 350px %}
@@ -79,5 +79,5 @@ Wer noch etwas weiter wandern möchte, kann an dieser Stelle auch geradeaus Rich
 In Creuzburg angekommen, gehen wir zuerst durch den Ort bis zum Markt und folgen dann der Pfarrstraße zum Ufer der Werra. Der Werra folgend, kommen wir bald zum Ausgangspunkt unserer Wanderung zurück.
 {% callout warning %}
 Wer sich für die in Thüringen heimischen Orchideenarten interessiert, dem empfehle ich das Buch "Orchideen-Wanderungen in Thüringen" von Wolfgang Eccarius und Helga Dietrich. Dieses können Sie bei Amazon erwerben:
-<a rel="nofollow" href="http://www.amazon.de/gp/product/3937107207/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3937107207&linkCode=as2&tag=thueringergip-21">Orchideen-Wanderungen in Thüringen: Weg- und Artenbeschreibungen sowie Wanderkarten</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3937107207" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.de/gp/product/3937107207/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3937107207&linkCode=as2&tag=thueringergip-21">Orchideen-Wanderungen in Thüringen: Weg- und Artenbeschreibungen sowie Wanderkarten</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3937107207" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}

@@ -48,7 +48,7 @@ Diese ca. 20km lange Wanderung führt von Bad Frankenhausen in Thüringen zum Ky
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Naturpark-Kyffhäuser-Sondershausen/dp/3895911089/ref=as_li_ss_tl?ie=UTF8&qid=1468260252&sr=8-1&keywords=kyffhäuser+wanderkarte&linkCode=ll1&tag=thueringergip-21&linkId=1c2cb212ef2f61431ecbeb09638e776d
-">Radwander- und Wanderkarte Naturpark Kyffhäuser, Sondershausen und Umgebung: Ausflüge zwischen Nordhausen, der Goldenen Aue, Kelbra, Tilleda und Bad Frankenhausen. 1:35000 (Schöne Heimat)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=1468260252" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+">Radwander- und Wanderkarte Naturpark Kyffhäuser, Sondershausen und Umgebung: Ausflüge zwischen Nordhausen, der Goldenen Aue, Kelbra, Tilleda und Bad Frankenhausen. 1:35000 (Schöne Heimat)</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=1468260252" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>{% leaflet 51.366111 11.103333 13 100% 350px %}
 geoJSON:/routes/Von-Bad-Frankenhausen-zum-Kyffhauser-Denkmal/20160710_1619_Hiking.json

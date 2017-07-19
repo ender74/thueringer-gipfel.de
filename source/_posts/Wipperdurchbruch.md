@@ -27,7 +27,7 @@ photos:
 Der [Wipperdurchbruch](https://de.wikipedia.org/wiki/Wipperdurchbruch) liegt bei [Günserode](https://de.wikipedia.org/wiki/G%C3%BCnserode) im Kyffhäuserkreis in Thüringen, südlich von Bad Frankenhausen. Hier hat sich die Wipper durch die Muschelkalkplatte der Hainleite gegraben. An den Prallhängen des Tals sind so in Jahrmillionen bis zu 150m hohe Steilwände entstanden. Die c.a. 6km lange Wanderung ist durch herrliche Ausblicke und seltene Pflanzenarten ein einmaliges Erlebnis.
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Karte bei amazon.de bestellen:
-<a rel="nofollow" href="http://www.amazon.de/gp/product/3869792000/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3869792000&linkCode=as2&tag=thueringergip-21">Bad Frankenhausen (Kyffhäuser): 4632 (Topographische Karten 1:25000 (TK 25) Thüringen (amtlich))</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3869792000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.de/gp/product/3869792000/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3869792000&linkCode=as2&tag=thueringergip-21">Bad Frankenhausen (Kyffhäuser): 4632 (Topographische Karten 1:25000 (TK 25) Thüringen (amtlich))</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3869792000" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}
@@ -69,7 +69,7 @@ Wir folgen aber dem Weg weiter geradeaus (grüne Wandermarkierung). Der Weg verl
 <u>Tipp:</u> Von dieser Stelle aus kann man noch einen kurzen Abstecher zum Kohnstein machen (auf der Karte mit 5 markiert), wenn man dem Weg nach Rechts folgt. Hier befand sich am Ende der Bronzezeit bzw. zur Beginn der Eisenzeit eine Wallanlage, welche noch bis ins Mittelalter hinein genutzt worden sein soll.
 {% endcallout %}
 {% callout warning %}
-Ein paar Informationen zum Kohnstein sind im Buch <a rel="nofollow" href="http://www.amazon.de/gp/product/B018FXWLKK/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B018FXWLKK&linkCode=as2&tag=thueringergip-21">Archäologischer Wanderführer Thüringen. Kyffhäuserkreis</a> enthalten.<img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=B018FXWLKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Ein paar Informationen zum Kohnstein sind im Buch <a rel="nofollow" href="https://www.amazon.de/gp/product/B018FXWLKK/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B018FXWLKK&linkCode=as2&tag=thueringergip-21">Archäologischer Wanderführer Thüringen. Kyffhäuserkreis</a> enthalten.<img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=B018FXWLKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 Unser Weg führt uns aber nun gerade aus weiter, abwärts ins Wippertal hinunter. Hier kann man im Frühsommer noch Exemplare des Braunroten Stendelwurzes und des Großen Händelwurz entdecken (deren Blütezeit beginnt allerdings erst im Juni).
 Kurz bevor man im Tal auf die Wipper trifft, ist auf der linken Seite noch mal eine überdachte Wanderhütte (den kleinen Hang hinauf). Unten im Tal stoßen wir auf eine Brücke, welche hier aber gesperrt ist. Wir biegen nach links ab und laufen auf der linken Seite des Ufers zurück bis zur Brücke vom Anfang unserer Wanderung. Während dessen haben wir einen schönen Blick auf den Steilhang über uns.
@@ -82,5 +82,5 @@ Geöffnet ist im April-Oktober von 10Uhr bis 16Uhr. Die Führung dauert etwa ein
 
 {% callout warning %}
 Diese und weitere Wanderungen sind im Buch "Orchideen-Wanderungen in Thüringen" von Wolfgang Eccarius und Helga Dietrich beschrieben. Dieses können Sie bei Amazon erwerben:
-<a rel="nofollow" href="http://www.amazon.de/gp/product/3937107207/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3937107207&linkCode=as2&tag=thueringergip-21">Orchideen-Wanderungen in Thüringen: Weg- und Artenbeschreibungen sowie Wanderkarten</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3937107207" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.de/gp/product/3937107207/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3937107207&linkCode=as2&tag=thueringergip-21">Orchideen-Wanderungen in Thüringen: Weg- und Artenbeschreibungen sowie Wanderkarten</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3937107207" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}

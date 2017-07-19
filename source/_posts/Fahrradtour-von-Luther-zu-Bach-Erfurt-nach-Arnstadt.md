@@ -46,7 +46,7 @@ photos:
 Diese schöne 50km langen Fahrradtour verbindet die alte Handelsstadt Erfurt mit der Kulturstadt Arnstadt. Erfurt, in dessen alter Universität schon Martin Luther studierte, ist heute die Landeshauptstadt von Thüringen. In der Nähe von Arnstadt hat die Familie Bach Ihren Stammsitz. Auf dem Rückweg passieren wir noch das Gebiet der Drei Gleichen.
 {% callout warning %}
 Eine passende Tourenkarte können Sie bei amazon.de bestellen:
-<a rel="nofollow" href="http://www.amazon.de/gp/product/3866360800/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3866360800&linkCode=as2&tag=thueringergip-21">Fahrradkarte Erfurt, Mittelthüringen: Mit dem kompletten Gera-Radwanderweg. Mit Tourentipps. Mit UTM-Gitter für GPS. Offizielle Karte des ... Wasser- und reißfest. (Fahrradkarten)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3866360800" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.de/gp/product/3866360800/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3866360800&linkCode=as2&tag=thueringergip-21">Fahrradkarte Erfurt, Mittelthüringen: Mit dem kompletten Gera-Radwanderweg. Mit Tourentipps. Mit UTM-Gitter für GPS. Offizielle Karte des ... Wasser- und reißfest. (Fahrradkarten)</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3866360800" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}

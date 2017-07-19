@@ -44,7 +44,7 @@ Startpunkt dieser ca. 13km langen Rundwanderung in Thüringen ist der Bahnhof Je
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Mittleres-Saaletal-Umgebung/dp/3895910988/ref=as_li_ss_tl?ie=UTF8&qid=1467123538&sr=8-1&keywords=Wanderkarte+Jena&linkCode=ll1&tag=thueringergip-21&linkId=0abeccb38575fb28cf2315fd81bdcf70
-">Radwander- und Wanderkarte Mittleres Saaletal, Jena und Umgebung: Ausflüge zwischen Dornburg-Camburg, Kahla, Apolda, Magdala, Bürgel und Stadtroda (mit SaaleHorizontale). 1:35000 (Schöne Heimat)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3895910988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />{% endcallout %}
+">Radwander- und Wanderkarte Mittleres Saaletal, Jena und Umgebung: Ausflüge zwischen Dornburg-Camburg, Kahla, Apolda, Magdala, Bürgel und Stadtroda (mit SaaleHorizontale). 1:35000 (Schöne Heimat)</a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=3895910988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />{% endcallout %}
 <figure>
 {% leaflet 50.883764 11.59325 13 100% 350px %}
 geoJSON:/routes/Wanderung-im-Leutratal/20160626_1333_Hiking.json
