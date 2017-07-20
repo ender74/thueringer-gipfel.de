@@ -50,7 +50,8 @@ Eine passende Tourenkarte können Sie bei amazon.de bestellen:
 {% endcallout %}
 <figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}
-attribution: ©OpenStreetMap
+baseLayer: https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=d73fa2d5930547b3851bbc2718e3cf91
+attribution: ©OpenStreetMap ©Gravitystorm Limited
 geoJSON:/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.json
 {% endleaflet %}
 <figcaption>Download der Strecke als [gpx](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.gpx) oder [kml](/routes/Fahrradtour-von-Luther-zu-Bach-Erfurt-nach-Arnstadt/20160605_1547_Cycling.kml) Datei.</figcaption>
