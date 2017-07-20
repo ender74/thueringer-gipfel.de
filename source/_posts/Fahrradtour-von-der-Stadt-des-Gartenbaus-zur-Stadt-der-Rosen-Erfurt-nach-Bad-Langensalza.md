@@ -37,7 +37,6 @@ Eine passende Tourenkarte können Sie bei amazon.de bestellen:
 {% endcallout %}
 <figure>
 {% leaflet 51.307778 11.049167 13 100% 350px %}
-baseLayer: http://c.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png
 attribution: ©OpenStreetMap
 geoJSON:/routes/Fahrradtour-von-der-Stadt-des-Gartenbaus-zur-Stadt-der-Rosen-Erfurt-nach-Bad-Langensalza/20160612_1222_biking.json
 {% endleaflet %}
