@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --name tgipfel-build -i -t -v /home/hueter/Projekte/tgipfel/:/site ender74/hexo build
+docker run -i -t -v ~/Projekte/thueringer-gipfel.de/:/site ender74/hexo generate
