@@ -3,10 +3,10 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-	<name>Kleingartenwanderweg Erfurt</name>
-	<desc>Kleingartenwanderweg Erfurt</desc>
+	<name>Wanderung auf dem Kleingartenwanderweg</name>
+	<desc>Wanderung auf dem Kleingartenwanderweg</desc>
 	<trk>
-		<name>Kleingartenwanderweg Erfurt</name>
+		<name>Wanderung auf dem Kleingartenwanderweg</name>
 		<number>1</number>
 		<trkseg>
 			<trkpt lat="50.95856235786099" lon="10.983536958694458">
@@ -549,49 +549,49 @@
 			<trkpt lat="50.9871368408203125" lon="10.9827184677124023">
 				<ele>261.09259033203125</ele>
 			</trkpt>
-			<trkpt lat="50.9872474670410156" lon="10.9826030731201172">
+			<trkpt lat="50.9869232865034" lon="10.982409954071045">
 				<ele>261.2601623535156</ele>
 			</trkpt>
-			<trkpt lat="50.9874420166015625" lon="10.9825658798217773">
+			<trkpt lat="50.98630738088163" lon="10.98024845123291">
 				<ele>261.23345947265625</ele>
 			</trkpt>
-			<trkpt lat="50.9879302978515625" lon="10.9823226928710938">
+			<trkpt lat="50.98598520917793" lon="10.979146957397461">
 				<ele>257.47222900390625</ele>
 			</trkpt>
-			<trkpt lat="50.98790747942376" lon="10.982217788696289">
+			<trkpt lat="50.985557155736" lon="10.977625846862793">
 				<ele>254.29104614257812</ele>
 			</trkpt>
-			<trkpt lat="50.9883232116699219" lon="10.9819736480712891">
+			<trkpt lat="50.987620833253914" lon="10.977124214172363">
 				<ele>253.4923858642578</ele>
 			</trkpt>
-			<trkpt lat="50.9884681701660156" lon="10.9818811416625977">
+			<trkpt lat="50.98852219782455" lon="10.9768385887146">
 				<ele>252.0449981689453</ele>
 			</trkpt>
-			<trkpt lat="50.9889755249023438" lon="10.9817008972167969">
+			<trkpt lat="50.98932670450406" lon="10.976593971252441">
 				<ele>247.2790069580078</ele>
 			</trkpt>
-			<trkpt lat="50.9895515441894531" lon="10.9812602996826172">
+			<trkpt lat="50.98915984528927" lon="10.975488185882568">
 				<ele>242.0953369140625</ele>
 			</trkpt>
-			<trkpt lat="50.98986110021196" lon="10.980849981307983">
+			<trkpt lat="50.988442875929046" lon="10.97445559501648">
 				<ele>240.7113800048828</ele>
 			</trkpt>
-			<trkpt lat="50.990096590826624" lon="10.98067569732666">
+			<trkpt lat="50.98751674929796" lon="10.970397472381592">
 				<ele>239.7261199951172</ele>
 			</trkpt>
-			<trkpt lat="50.990513287426836" lon="10.980470895767212">
+			<trkpt lat="50.98878442430133" lon="10.970986604690552">
 				<ele>239.5526123046875</ele>
 			</trkpt>
-			<trkpt lat="50.99077836089266" lon="10.980003356933594">
+			<trkpt lat="50.990211088611346" lon="10.972450256347656">
 				<ele>237.84017944335938</ele>
 			</trkpt>
-			<trkpt lat="50.9915792606088" lon="10.979605674743652">
+			<trkpt lat="50.99079589503463" lon="10.97443437576294">
 				<ele>235.55984497070312</ele>
 			</trkpt>
-			<trkpt lat="50.99201082633137" lon="10.979413986206055">
+			<trkpt lat="50.99136252985046" lon="10.976324081420898">
 				<ele>234.02713012695312</ele>
 			</trkpt>
-			<trkpt lat="50.99199369526831" lon="10.97991943359375">
+			<trkpt lat="50.99202070744873" lon="10.979511737823486">
 				<ele>233.1116180419922</ele>
 			</trkpt>
 			<trkpt lat="50.99230577886833" lon="10.980259895324707">
