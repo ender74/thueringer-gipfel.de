@@ -2,13 +2,13 @@
 layout: post
 title: Wanderung bei Eisenach vom Burschenschaftsdenkmal zur Wartburg
 date: 2014-07-23
-location: [50.975902,10.317758]
+location: [51.0825, 10.5144]
 tags:
 - Wanderung
-- Lang
+- Schwer
 - Eisenach
 - Wartburgkreis
- -Burg
+- Burg
 photos:
 - /img/Wanderung-bei-Eisenach-vom-Burschenschaftsdenkmal-zur-Wartburg/1-schmalhaus-eisenach.jpg
 - /img/Wanderung-bei-Eisenach-vom-Burschenschaftsdenkmal-zur-Wartburg/2-brauerei-eisenach.jpg

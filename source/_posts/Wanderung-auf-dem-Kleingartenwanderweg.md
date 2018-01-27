@@ -2,7 +2,7 @@
 layout: post
 title: Wanderung auf dem Kleingartenwanderweg in Erfurt
 date: 2018-01-03
-location: [50.972747, 11.037104]
+location: [50.959, 10.984]
 tags:
 - Wanderung
 - Erfurt
