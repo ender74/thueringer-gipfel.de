@@ -2,7 +2,7 @@
 layout: post
 title: Wanderung bei Eisenach vom Burschenschaftsdenkmal zur Wartburg
 date: 2014-07-23
-location: [51.0825, 10.5144]
+location: [50.975902,10.317758]
 tags:
 - Wanderung
 - Schwer
