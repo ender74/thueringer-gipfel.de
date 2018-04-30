@@ -31,8 +31,8 @@ photos:
 Der Wald der Wälder ...
 {% callout warning %}
 Falls Ihnen dieser Wandervorschlag gefällt, können Sie eine passende Wanderkarte bei amazon.de bestellen:
-<a rel="nofollow" href="https://www.amazon.de/Radwander--Wanderkarte-Nationalpark-Hainich-Umgebung/dp/3895911194/ref=as_li_ss_tl?ie=UTF8&qid=1472928918&sr=8-1&keywords=wanderkarte+hainich&linkCode=ll1&tag=thueringergip-21&linkId=b66bbc5cdd67505a7e90502ee600e820
-">Große Radwander- und Wanderkarte Nationalpark Hainich und Umgebung: Ausflüge zwischen Mühlhausen/Thür., Treffurt, Mihla, Bad Langensalza und der Wartburgstadt Eisenach. 1:35000 (Schöne Heimat) </a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=1472928918" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.de/Erfurt-Fahrradkarte-GPS-genau-KOMPASS-Fahrradkarten-Deutschland/dp/3850263053/ref=as_li_ss_tl?ie=UTF8&qid=1525121595&sr=8-2-fkmr0&keywords=s%C3%B6mmerda+fahrradkarte+weimar+jena&linkCode=ll1&tag=thueringergip-21&linkId=5189f9aaabea726d42de595ace6846eb
+">Erfurt - Weimar - Jena: Fahrradkarte. GPS-genau. 1:70000 (KOMPASS-Fahrradkarten Deutschland, Band 3077) </a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=thueringergip-21&l=as2&o=3&a=5189f9aaabea726d42de595ace6846eb" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {% endcallout %}
 <figure>
 {% leaflet 50.97287630387178 11.03755190256057 13 100% 350px %}
