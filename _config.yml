@@ -61,7 +61,7 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname: t-gipfel
+#disqus_shortname: t-gipfel
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
