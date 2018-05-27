@@ -29,7 +29,7 @@ archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics: UA-79776810-1
+#google_analytics: UA-79776810-1
 favicon: /favicon.png
 twitter_id: t_gipfel
 google_plus:
