@@ -29,7 +29,7 @@ photos:
 - /img/Fahrradtour_zu_den_Erfurter_Seen/11_klingesee.jpg
 - /img/Fahrradtour_zu_den_Erfurter_Seen/12_lutherstein.jpg
 ---
-Diese ca. 35km lange Fahrradtour führt ohne größere Steigungen vom Hauptbahnhof Erfurt in die nördlich gelegene Seenlandschaft. Diese Seen lassen sich am besten mit dem Fahrrad erkunden. Bei schönem Wetter laden verschiedene Plätze zum Baden ein. Entlang des Weges liegt auch das Freibad Stotternheim. Aber auch historische Plätze auf Luthers Spuren können wir besuchen. Lassen Sie sich überraschen.
+Diese ca. 35km lange Fahrradtour führt ohne größere Steigungen vom Hauptbahnhof Erfurt in die nördlich der Stadt gelegene Seenlandschaft. Diese Seen lassen sich am besten mit dem Fahrrad erkunden. Bei schönem Wetter laden verschiedene Plätze zum Baden ein. Entlang des Weges liegt auch das Freibad Stotternheim. Aber auch historische Plätze auf Luthers Spuren können wir besuchen. Lassen Sie sich überraschen.
 {% callout warning %}
 Falls Ihnen dieser Tourenvorschlag gefällt, können Sie eine passende Karte bei amazon.de bestellen:
 <a rel="nofollow" href="https://www.amazon.de/Erfurt-Fahrradkarte-GPS-genau-KOMPASS-Fahrradkarten-Deutschland/dp/3850263053/ref=as_li_ss_tl?ie=UTF8&qid=1525121595&sr=8-2-fkmr0&keywords=s%C3%B6mmerda+fahrradkarte+weimar+jena&linkCode=ll1&tag=thueringergip-21&linkId=5189f9aaabea726d42de595ace6846eb
@@ -122,6 +122,10 @@ Schon von weitem sieht man hinter dem Ort einen kleinen Hügel. Dies ist der War
 Von Nöda aus folgen wir einem sehr schönen Radweg in Richtung Alperstedt. Dieser ist zugleich ein Obstlehrpfad.
 
 ![Radweg nach Alperstedt](/img/Fahrradtour_zu_den_Erfurter_Seen/9a_radweg_zum_alperstedter_see.jpg "Radweg nach Alperstedt") 
+
+Der Alperstedter See ist ein beliebter Bade- und Naherholungssee.
+
+![Alperstedter See](/img/Fahrradtour_zu_den_Erfurter_Seen/10_alperstedter_see.jpg "Alperstedter See")
 
 Von Alperstedt aus folgen wir mit unseren Fahrrädern dem Radweg in Richtung Stotternheim. Gleich hinter der Kleingartenanlage folgen wir zuerst der Straße Am Felsenkeller und später An der Klinge zur Schwanseer Straße. Dieser folgen wir ein kurzes Stück stadtauswärts. Hinter den Bahngleisen verlassen wir die Straße nach rechts und folgen dem Weg entlang des Klingesees. Wir fahren mit unseren Fahrrädern weiter geradeaus bis wir auf einen befestigten Weg stoßen. Diesem folgen wir nach rechts. So kommen wir zum Lutherstein.
 
